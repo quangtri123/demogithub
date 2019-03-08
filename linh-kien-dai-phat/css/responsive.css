@@ -1,0 +1,45 @@
+@media only screen and (max-width: 767px) {
+    .product {
+        display: none;
+    }
+    .hang-moi-ve span {
+        width: 97% !important;
+    }
+    .aaa {
+        margin-left: 0 !important;
+        margin-top: 5px;
+    }
+    .show-right button{
+        width: 45% !important;
+    }
+    .header {
+        display: none;
+    }
+    .slick-slide img {
+        width: 100% !important;
+    }
+    .sub-img, .sub-img a {
+        text-align: center !important;
+    }
+    .owl-theme .owl-dots .owl-dot {
+        display: none;
+    }
+    .banner-left {
+        margin: 10px;
+    }
+    .responsive {
+        display: block !important;
+    }
+    .hide {
+        display: none;
+    }
+    .click-1 .aaa img {
+        width: 15% !important;
+        transform: translateX(150%);
+    }
+    .click-1 {
+        text-align: center;
+        /* transform: translateX(70px); */
+        margin-top: 10px;
+    }
+}
